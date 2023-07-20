@@ -113,4 +113,4 @@
 
 22. Add Wiz CICD Policies to the pipeline scans to make the pipeline fail for vulns.. then iac<br>
 
-23. Extra credit.. Figure out how to run pipeline steps on previous step failre (step conditons)
+23. Extra credit.. Figure out how to run pipeline steps on previous step failure (step conditons)
